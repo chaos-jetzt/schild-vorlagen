@@ -10,6 +10,6 @@
         {"tag": "p", "class": "", "default": "#jetzt"}
     ],
     "styling_elements": [
-        {"tag": "img", "alt": "chaos.jetzt", "class": "absolute", "id": "logo", "src": "https://raw.githack.com/chaos-jetzt/schild-vorlagen/main/chaos_jetzt_light/chaos_jetzt_hell/chaos_jetzt-removebg.png"}
+        {"tag": "img", "alt": "chaos.jetzt", "class": "absolute", "id": "logo", "src": "https://raw.githubusercontent.com/chaos-jetzt/schild-vorlagen/main/chaos_jetzt_light/chaos_jetzt_logo.png"}
     ]
 }
