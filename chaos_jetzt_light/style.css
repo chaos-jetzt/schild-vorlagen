@@ -1,0 +1,105 @@
+
+body{
+    font-family: 'Open Sans', arial;
+}
+h1{
+	font-weight: 800;
+    font-size: 65px;
+}
+h2{
+	font-weight: 700;
+}
+h3{
+	font-weight: 500;
+}
+p{
+	font-weight: 400;
+}
+span{
+	font-weight: 300;
+}
+h1:first-of-type{
+    color: #00ba31;
+}
+#chaos_jetzt_hell {
+	width: 100vw;
+	height: 100vh;
+	margin: 0 !important; 
+  	padding: 0 !important;
+}
+.absolute {
+	position: absolute;
+	height: 2.5cm;
+	width: auto;
+}
+#logo {
+	bottom: 0.75cm;
+	left: 1cm;
+	height: 4cm;
+}
+
+/* open-sans-300 - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-300.eot'); /* IE9 Compat Modes */
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./open-sans-v34-latin/open-sans-v34-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-300.woff') format('woff'), /* Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./open-sans-v34-latin/open-sans-v34-latin-300.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  /* open-sans-regular - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./open-sans-v34-latin/open-sans-v34-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./open-sans-v34-latin/open-sans-v34-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  /* open-sans-500 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-500.eot'); /* IE9 Compat Modes */
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./open-sans-v34-latin/open-sans-v34-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-500.woff') format('woff'), /* Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./open-sans-v34-latin/open-sans-v34-latin-500.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  /* open-sans-700 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-700.eot'); /* IE9 Compat Modes */
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./open-sans-v34-latin/open-sans-v34-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-700.woff') format('woff'), /* Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./open-sans-v34-latin/open-sans-v34-latin-700.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }
+  /* open-sans-800 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-800.eot'); /* IE9 Compat Modes */
+    src: url('./open-sans-v34-latin/open-sans-v34-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./open-sans-v34-latin/open-sans-v34-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-800.woff') format('woff'), /* Modern Browsers */
+         url('./open-sans-v34-latin/open-sans-v34-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./open-sans-v34-latin/open-sans-v34-latin-800.svg#OpenSans') format('svg'); /* Legacy iOS */
+  }

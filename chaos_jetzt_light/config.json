@@ -1,0 +1,15 @@
+{
+    "name": "chaos_jetzt_hell",
+    "css": [
+        "style.css"
+    ],
+    "editable_elements": [
+        {"tag": "span", "class": "", "default": "-"},
+        {"tag": "h1", "class": "heading", "default": "You are beautiful"},
+        {"tag": "h2", "class": "heading", "default": "Let's change the world"},
+        {"tag": "p", "class": "", "default": "#jetzt"}
+    ],
+    "styling_elements": [
+        {"tag": "img", "alt": "chaos.jetzt", "class": "absolute", "id": "logo", "src": "./chaos_jetzt_hell/chaos_jetzt-removebg.png"}
+    ]
+}
